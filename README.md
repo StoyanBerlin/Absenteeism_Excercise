@@ -8,3 +8,4 @@ The technology used in this excercise is:
 - python in Jupyter Notebook, the additional modules are pandas and numpy.
 - Sequel Pro
 -Tableau Public
+s
